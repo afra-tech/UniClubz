@@ -1,4 +1,5 @@
 *.iml
+.json
 .gradle
 /local.properties
 /.idea/caches
@@ -14,4 +15,4 @@
 .cxx
 local.properties
 /UniClubz/.idea
-/UniClubz/app/google-services
+/UniClubz/app/google-services.json
