@@ -1,31 +1,4 @@
-<img src="./media/image1.jpeg" style="width:3.19583in;height:1.79375in" />
 
-**North South University**
-
-Department of Electrical & Computer Engineering
-
-**Final Project Report**
-
-**Summer 2021**
-
-**Course Name**: Mobile and Wireless Application Development
-
-**Course No**: CSE 486 **Sec:** 01
-
-**Faculty**: Shaikh Shawon Arefin Shimon (SAS3)
-
-**Member 1**:
-
-**Name:** Afra Nawar
-
-**ID: ** 1812048042
-
-**Email:** <afra.nawar05@northsouth.edu>
-
-**Git Repository:**
-<https://github.com/NSU-SU21-CSE486-1/1812048_SU21_CSE486_1>
-
-**Date Submitted:** September 18th
 
 # Table of Contents
 
