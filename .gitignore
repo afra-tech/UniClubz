@@ -13,4 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
-/.idea
+/UniClubz/.idea
+/UniClubz/app/google-services
